@@ -5,7 +5,7 @@
 <!--<img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'> -->
 
 [![Twitter Badge](https://img.shields.io/badge/-@fawas_ola-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/fawas_ola) [![Linkedin Badge](https://img.shields.io/badge/-fawaskareem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/kareemfawas/) [![Medium Badge](https://img.shields.io/badge/-@phawazzzy-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/@fawas_ola)
-[![Gmail Badge](https://img.shields.io/badge/-phawazzzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phawazzzy@gmail.com)](mailto:phawazzzy@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-phawazzzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phawazzzy@gmail.com)](mailto:phawazzzy@gmail.com) [![HashnodeBlog Badge](https://img.shields.io/badge/-fawasDevBlog-1ca0f1?style=flat-square&logo=Hashnode&logoColor=blue&link=https://fawaskareem.hashnode.dev/)](https://fawaskareem.hashnode.dev/)
 
 - it is fawas🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science and education in Lagos State University. I am of the opinionn that you grow also by helping others grow. Mentoring is something i can never get tired of.
 
