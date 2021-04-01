@@ -13,12 +13,18 @@ I am Responsible, detailed-oriented, result-driven, and committed engineer with 
 
 ## 👯 Communities
 - Lasu Developer Community
+- Developer Student Clubs LASU (Lead)
+- Ingressive For Good LASU (co-lead)
+- Blacks In Technology Lagos (chapter lead)
 
 ## 🔭 I’m currently working on
-  NigeriaAPI
+- NigeriaAPI
+- SpeedInfo
+- Boardly
 
 ## 🌱 I’m currently learning
-   Flutter
+  - Cloud
+  - 
 
 ## 💬 Details
 - Name: fawas kareem
