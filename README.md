@@ -40,3 +40,4 @@ I am Responsible, detailed-oriented, result-driven, and committed engineer with 
 ##
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=phawazzzy.phawazzzy)-->
 
+@OSSDAO-ORG•AIRDROP-0x0d6ABDBb6B5c0df77f3F3A1B6ac4199893b1A40c
